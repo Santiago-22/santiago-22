@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ramon">
 
-<!--
-**Santiago-22/santiago-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, what's up?<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Santiago</h1>
 
-Here are some ideas to get you started:
+<p align="left">
+I am Computer Engineering student at CEFET/RJ
+I'm a Python enthusiast and am currently learning about Data Science and Machine Learning.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+
+💻 Techs: <strong>Python,
+  C,
+  Html.
+  </strong>
+</p>
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-santiago/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-santiago/) 
