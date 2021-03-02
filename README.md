@@ -3,8 +3,8 @@
 <h1 align="center">Hey, what's up?<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Santiago</h1>
 
 <p align="left">
-I am Computer Engineering student at CEFET/RJ
-I'm a Python enthusiast and am currently learning about Data Science and Machine Learning.
+I am Computer Engineering student at CEFET/RJ.<br>
+I'm a Python enthusiast and I am currently learning about Data Science and Machine Learning.
 </p>
 
 <p align="left">
