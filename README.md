@@ -9,8 +9,9 @@ I'm a Python enthusiast and I am currently learning about Data Science and Machi
 
 <p align="left">
 
-💻 Techs: <strong>Python,
-  C,
+💻 Techs: <strong>Python<br>
+  SQL<br>
+  R<br>
   Html.
   </strong>
 </p>
