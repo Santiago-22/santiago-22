@@ -3,8 +3,8 @@
 <h3 align="center">Brazilian Python Programmer</h3>
 <br>
 
-<p>I am Computer Engineering student at CEFET/RJ.</p>
-<p>I'm a Python enthusiast and I am currently studying Python and it's frameworks and library's</p>
+<p>I am a Computer Engineering student at CEFET/RJ.</p>
+<p>I'm a Python enthusiast and am currently studying Python and it's frameworks and libraries</p>
 
 <br>
 
